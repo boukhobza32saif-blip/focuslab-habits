@@ -1,3 +1,10 @@
+{
+  "name": "FocusLab Habits",
+  "short_name": "FocusLab",
+  "start_url": "/focuslab-habits/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#70AD47",
   "icons": [
     {
       "src": "icons/icon-192x192.png",
@@ -12,3 +19,4 @@
       "purpose": "any"
     }
   ]
+}
